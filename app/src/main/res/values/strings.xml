@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CSplusApp</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="nav_message">Message</string>
+    <string name="nav_user">User</string>
+    <string name="nav_logout">Logout</string>
+    <string name="nav_key">Change Password</string>
+
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+    <string name="account">Account</string>
+    <string name="slogan">My soul is soaring, it cannot be shackled</string>
+    <string name="coporation">CSplus</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

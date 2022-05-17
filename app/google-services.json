@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "467252907244",
+    "project_id": "csplusapp-f1752",
+    "storage_bucket": "csplusapp-f1752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467252907244:android:0456db87eba2d2535b29c9",
+        "android_client_info": {
+          "package_name": "com.example.csplusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467252907244-gt8kbiqd16qa577gbko821qk44h3iphk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.csplusapp",
+            "certificate_hash": "a36ca747fddb3c960a628d5dedacde8d1ab58dcc"
+          }
+        },
+        {
+          "client_id": "467252907244-k4et6m9ldcq8id9ml844ddd0dqhadl33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPK5mSRuscYsxWFDFxBvucneQRYlvt2IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467252907244-k4et6m9ldcq8id9ml844ddd0dqhadl33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
